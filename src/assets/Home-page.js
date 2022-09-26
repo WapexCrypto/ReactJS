@@ -5,7 +5,6 @@ const Home = () => {
       <div>
         <div class="even">
         <div class="even_right">
-        <img src="https://cdn.discordapp.com/attachments/1012502637125582921/1016077470061039806/unknown.png" height="100px" width="100px"></img>
         </div>
           <div class="even_left">
           <p id='clear'>$FTBL</p>
